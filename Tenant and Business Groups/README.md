@@ -15,6 +15,7 @@ Identity service manages tenants, business groups (formerly named subtenants), g
  * Create business groups
  * Add business group roles to a user
  * Get all business groups for a user
+ * Get all Active Directory users added in all vRA business groups
 
 ### Tenant
 
@@ -23,3 +24,10 @@ Identity service manages tenants, business groups (formerly named subtenants), g
  * Get user roles
  * Assign roles to user
  * Return roles for a user
+
+### Roles
+
+ * Get roles
+ * Add roles to a principal
+
+*[vRealize Automation API Tips](../API%20Tips)*
